@@ -1,0 +1,2 @@
+# Marketing-Funnel-Analysis-Using-SQL-Power-BI-and-Excel
+Funnel Analysis is important for marketing teams to understand the journey of their customers from their campaigns to a particular desired event such as purchases, downloads, filling a survey, etc. It helps the team undersrand the drop-off rate of customers and provides insights on what stages of the journey could be improved to get a desired event
